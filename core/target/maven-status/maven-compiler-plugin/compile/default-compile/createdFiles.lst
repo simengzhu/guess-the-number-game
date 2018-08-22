@@ -1,1 +1,5 @@
 com/example/simengzhu/Main.class
+com/example/simengzhu/Game.class
+com/example/simengzhu/NumberGeneratorImpl.class
+com/example/simengzhu/GameImpl.class
+com/example/simengzhu/NumberGenerator.class
